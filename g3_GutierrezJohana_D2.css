@@ -1,0 +1,72 @@
+header {
+	color: pink;
+	text-align: center;
+	font-size: 3em;
+	font-style: !important;
+	font-weight: bold;
+	margin: 20px 50px 50px 0px;
+	background-color: maroon
+}
+
+.principal_1 {
+	color: white;
+}
+
+.principal_2 {
+	color: black;
+	font-style: italic;
+	font-weight: bold;
+}
+
+body {
+	background-color: gray ;
+}
+.imagen_1{
+    border-width: 3px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 2em;
+	position: relative;
+	left:  400px;
+}
+.parrafo {
+    text-align: left;
+    font-family: "Verdana", Sans-serif;
+    font-size: 1.5em;
+}
+.parrafo_a {
+    text-align: left;
+    font-family: "Verdana", Sans-serif;
+    font-size: 1.3em;
+}
+.parrafo_b {
+    text-align: left;
+    font-family: "Verdana", Sans-serif;
+    font-size: 1.3em;
+}
+.parrafo_c {
+    text-align: left;
+    font-family: "Verdana", Sans-serif;
+    font-size: 1.3em;
+}
+.imagen_2{
+	position: relative;
+	right:  50px;
+	width: 200px;
+}
+.imagen_3{
+    width: 200px;
+	position: relative;
+	right:  50px;
+}
+
+.imagen_4{
+	position: relative;
+	right:  50px;
+	width: 200px;
+}
+.imagen_5{
+	position: relative;
+	right:  50px;
+	width: 200px;
+}
